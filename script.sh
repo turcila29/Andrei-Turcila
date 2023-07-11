@@ -1,3 +1,5 @@
+rm file2.txt
+
 echo "I am being run from a script"
 touch file1.txt file2.txt file3.txt
 echo "Created file1.txt, file2.txt & file3.txt"
