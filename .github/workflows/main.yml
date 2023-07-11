@@ -13,7 +13,7 @@ jobs:
     - name: Run Cal
       run: cal
       
-      run: bash ./script.sh
-      git 
+      
+      
       
   
