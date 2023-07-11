@@ -12,3 +12,6 @@ jobs:
         sudo apt install -y util-linux
     - name: Run Cal
       run: cal
+      
+      - name: List current directories contents
+      run: ls -la
